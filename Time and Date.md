@@ -1,4 +1,4 @@
-Convert Time Int to TimeValue
+# Convert Time Int to TimeValue
 
 Example convert 600 to a TimeValue 06:00 AM
 
@@ -23,7 +23,7 @@ TimeValue(
 
 
 
-Check for Time Conflicts
+# Check for Time Conflicts
 
 ForAll(
     TimeCheck,
