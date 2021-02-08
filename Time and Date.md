@@ -21,7 +21,9 @@ TimeValue(
     "EN"
 )
 
+# Convert Date Int to DateValue
 
+Text(Date(Value(Left(Text(600), 4)), Value(Right(Left(Text(600), 6),2)),Value(Right(Text(600),2))),"dd/mm/yy")
 
 # Check for Time Conflicts
 
